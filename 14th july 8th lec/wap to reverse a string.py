@@ -1,0 +1,5 @@
+x=input('enter the string')
+l=x.split()
+l.reverse()
+word=' '.join(l)
+print(word)
