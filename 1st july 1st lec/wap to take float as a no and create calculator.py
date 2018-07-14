@@ -1,0 +1,6 @@
+x=float(input('Enter value of x'))
+y=float(input('Enter value of y'))
+print('addition',x+y)
+print('subtraction',x-y)
+print('multiplication',x*y)
+print('division',x/y)
